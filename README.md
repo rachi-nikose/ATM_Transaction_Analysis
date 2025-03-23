@@ -44,19 +44,9 @@ The ATM Analytics Dashboard is a Power BI project designed to provide a comprehe
 
 For any issues or inquiries, refer to the "Troubleshooting" section in the README.md file or contact the project maintainers.
 
-## Screenshots 📸 <a name="screenshots"></a>
+## Screenshots 📸 <a name="screenshots"></a
+![Screenshot 2025-03-23 171614](https://github.com/user-attachments/assets/a170723e-5a6d-420a-900b-a25115671997)
 
-- **Overview Dashboard:**
-  
-  <img align="center" src="Pictures/Overview.png" alt="Home Dashboard" />
-
-- **Transaction Analysis:**
-  
-  <img align="center" src="Pictures/Analysis.png" alt="Home Dashboard" />
-
-- **Geospatial Mapping:**
- 
-  <img align="center" src="Pictures/Mapping page.png" alt="Home Dashboard" />
 
 ## Features 🌟 <a name="features"></a>
 
