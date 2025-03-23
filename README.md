@@ -1,4 +1,4 @@
-# ATM Analytics Dashboard 📊💳
+# ATM Transaction Analysis 📊💳
 
 Welcome to the ATM Analytics Dashboard project – your go-to solution for in-depth analysis of ATM transactions, utilization rates, and geographical distribution. Gain valuable insights into your ATM network's performance and optimize for efficiency.
 
